@@ -1,0 +1,32 @@
+{
+  "name": "arrows",
+  "version": "1.0.0",
+  "description": "'Javascript implementation of Haskell-like (kleisli) arrows for good functional programming'",
+  "main": "dist/arrows.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxnewsnetwork/arrows-js"
+  },
+  "keywords": [
+    "arrow",
+    "kleisli",
+    "functional",
+    "composition",
+    "functor",
+    "monad",
+    "applicative"
+  ],
+  "author": "Thomas Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxnewsnetwork/arrows-js/issues"
+  },
+  "homepage": "https://github.com/foxnewsnetwork/arrows-js",
+  "devDependencies": {
+    "LiveScript": "^1.3.1",
+    "browserify": "^8.0.3"
+  }
+}
